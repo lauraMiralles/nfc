@@ -1,8 +1,9 @@
 # nfc
 
-El repositorio contiene los siguientes documentos:
 
-Puzzle 1: programa que imprime por consola el uid de la targeta correspondiente en hexadecimal, mediante el lector "Mifare USB card reader"
+El repositorio incluye los siguientes documentos:
 
-Puzzle 2: versión gráfica del programa anterior
+Puzzle 1: Un programa que imprime en hexadecimal el UID de la tarjeta correspondiente a través del lector "Mifare USB card reader", y muestra el resultado por consola.
+
+Puzzle 2: Una versión gráfica del programa anterior.
 
