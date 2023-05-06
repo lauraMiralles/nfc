@@ -1,0 +1,27 @@
+#label { 
+	background-color: blue;
+	color: white;
+	border-radius: 10px; 
+	font-size: 20px;
+}
+
+#nombre {
+	color: blue
+}
+
+#titulo_tabla {
+	color: red
+}
+
+#fila1_tabla {
+	background-color: blue;
+	color: yellow
+}
+
+#filas_tabla_par {
+	background-color: lightblue;
+}
+
+#filas_tabla_impar {
+	background-color: lightcyan;
+}
